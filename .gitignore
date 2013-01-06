@@ -1,4 +1,7 @@
 .actionScriptProperties
 .project
-.settings
+.settings/
 *.air
+bin/
+bin-debug/
+bin-release/
